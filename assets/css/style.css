@@ -167,7 +167,7 @@ h1.post_title {
 	text-align: right;
 	width: 160px;
 	top: 0;
-	left: -240px;
+	left: -200px;
 }
 
 #sidebar li {
@@ -248,10 +248,8 @@ img.center {
 	float: right;
 }
 
-
-
 /*** Media Queries ***/
-@media all and (max-width: 870px) {
+@media all and (max-width: 1420px) {
 
 	#page, #header, #content, #footer {
 		width: inherit;
