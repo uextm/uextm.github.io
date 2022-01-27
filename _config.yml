@@ -1,0 +1,12 @@
+name: UEXTM.com
+url: https://uextm.com
+description: Unreal Engine eXtensions Tools and Modules
+
+permalink: /:year/:month/:day/:title/
+paginate: 1
+
+plugins:
+  - jemoji
+  - jekyll-paginate
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
